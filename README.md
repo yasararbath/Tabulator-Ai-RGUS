@@ -1,1 +1,1 @@
-# Tabulator-Ai-RGUS
+# Ai-RGUS
